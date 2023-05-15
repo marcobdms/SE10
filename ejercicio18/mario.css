@@ -1,0 +1,19 @@
+.general {
+    width: 210px;
+}
+
+.abajo {
+    margin-top: -19px;
+    margin-left: 2px;
+    background-image: url(../img/f01.png);
+    background-repeat: repeat;
+}
+
+.medio{
+}
+
+.arriba{
+    background-repeat: repeat;
+    background-color: rgb(133, 218, 244);
+    margin-left: 0px;
+}
