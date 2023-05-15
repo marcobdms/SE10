@@ -10,9 +10,9 @@ div {
     border: black solid 3px;
     float: left;
     background-color: white;
-    margin-right: 15px;
-    margin-left: 20px;
-    margin-bottom: 20px;
+    margin-right: 100px;
+    margin-left: 75px;
+    margin-bottom: 30px;
     padding-top: 50px;
     text-align: center;
 }
@@ -32,6 +32,7 @@ div {
     height: 90px;
     width: 160px;
     margin-top: -20px;
+    margin-left: 20px;
     border: none;
 }
 
@@ -47,6 +48,7 @@ div {
     margin-top: -20px;
     border: none;
     background-size: 160px;
+    margin-left: 20px;
 }
 
 #divE {
